@@ -45,4 +45,7 @@ Here's a quick example of how the program runs:
 🥀 Enter the HEX value for 'dead' color (format: #HEX): #333333
  ```
 
-<h1 align="center">Enjoy the show!</h1>
+## Note
+After you first run the code you will find a directory called "__pycache__" which will contain the cache produced by the file "helpers.py"
+
+<h3 align="center">Enjoy the show!</h3>
